@@ -1,0 +1,8 @@
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Image Resizer\Image Resizer\bin\Release\Image Resizer.exe
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Image Resizer\Image Resizer\bin\Release\Image Resizer.pdb
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Image Resizer\Image Resizer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Image Resizer\Image Resizer\obj\Release\Image_Resizer.Form1.resources
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Image Resizer\Image Resizer\obj\Release\Image_Resizer.Properties.Resources.resources
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Image Resizer\Image Resizer\obj\Release\Image Resizer.csproj.GenerateResource.Cache
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Image Resizer\Image Resizer\obj\Release\Image Resizer.exe
+C:\Users\Sudhir Pratap Yadav\Documents\Visual Studio 2008\Projects\Image Resizer\Image Resizer\obj\Release\Image Resizer.pdb
